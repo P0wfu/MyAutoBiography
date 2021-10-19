@@ -1,0 +1,11 @@
+p{
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+
+ul{
+    list-style-type: square;
+    font-family: "Comic Sans MS";
+    text-align: left; padding-left: 670px;
+    padding-right: 0px; 
+}
